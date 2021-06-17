@@ -1,2 +1,2 @@
-# Est-gio-IntuitiveCare
+# Estágio-IntuitiveCare
 Atividades teste enviadas para segunda etapa do processo seletivo de estágio
