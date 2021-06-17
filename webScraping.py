@@ -6,7 +6,7 @@ from selenium import webdriver
 url = "http://www.ans.gov.br/prestadores/tiss-troca-de-informacao-de-saude-suplementar"
 
 # Launch Google Chrome
-driver = webdriver.Chrome("C:\\Users\\glaub\\OneDrive\\Documentos\\Teste Estagio\\chromedriver.exe") 
+driver = webdriver.Chrome("chromedriver.exe") 
 option = webdriver.ChromeOptions()
 prefs = {"plugins.always_open_pdf_externally": True}
 option.add_experimental_option("prefs",prefs)
